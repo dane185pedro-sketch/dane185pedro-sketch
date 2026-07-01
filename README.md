@@ -1,8 +1,8 @@
-# Olá, eu sou Danielle Alves 👋
+# Olá, sou Danielle Alves 👋
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas**
 
-Sou apaixonada por tecnologia, automação de processos e Inteligência Artificial. Atualmente, estou construindo minha trajetória na área de desenvolvimento de software por meio de projetos práticos, aprendizado contínuo e experimentação com novas tecnologias.
+Apaixonada por tecnologia, automação de processos e Inteligência Artificial. Atualmente, estou construindo minha trajetória na área de desenvolvimento de software por meio de projetos práticos, aprendizado contínuo e experimentação com novas tecnologias.
 
 Meu objetivo é desenvolver soluções inovadoras que integrem software, automação e IA para resolver problemas reais e gerar impacto positivo.
 
