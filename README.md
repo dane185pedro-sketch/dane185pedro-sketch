@@ -31,6 +31,13 @@ Meu objetivo é desenvolver soluções inovadoras que integrem software, automa�
 
 ## 📂 Projetos em Destaque
 
+### Site institucional da FlowByDani, agência de desenvolvimento de software, automação e IA.
+Apresenta os serviços, os projetos criados do zero (Clareia e Floresta da Fala) e os
+diferenciais, com assistente virtual e análise de projeto por IA que gera um resumo pronto
+para contato no WhatsApp.
+React + Vite + TypeScript, backend no Lovable Cloud, publicado e com SEO no Google Search Console.
+
+
 ### 🌱 Clareia
 Projeto desenvolvido durante o programa **Santander X Explorer**, com foco em inovação, empreendedorismo e desenvolvimento de soluções tecnológicas.
 
